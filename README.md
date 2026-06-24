@@ -4,7 +4,8 @@ A small Python script that downloads every full-resolution image from a Toyhouse
 character gallery. Intended for backing up / exporting galleries you own.
 
 > Be considerate: large galleries have caused server-load issues on Toyhouse in
-> the past. The default `--delay` is intentionally polite - raise it, don't lower it.
+> the past. The default `--delay` is intentionally conservative - raise it if you
+> run into issues, ideally don't lower it.
 
 ## Requirements
 
