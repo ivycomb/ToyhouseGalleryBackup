@@ -16,6 +16,8 @@ character gallery. Intended for backing up / exporting galleries you own.
 pip install requests beautifulsoup4
 ```
 
+Requests is a module that simply allows you to send HTTP requests, and beautifulsoup4 is what is used for scraping pages easily.
+
 ## Usage
 
 ```
